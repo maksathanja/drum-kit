@@ -2,6 +2,8 @@
 
 Play by clicking the drums or pressing the keys: w, a, s, d and j, k, l
 
+[Ready to play? 🥁](https://maxathanja.github.io/drum-kit/)
+
 ## Code refactoring
 
 Any help is appreciated.
